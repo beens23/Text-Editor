@@ -1,1 +1,2 @@
-Created a text editor using Java
+Created a text editor using Java.
+createEditor is the main class.
